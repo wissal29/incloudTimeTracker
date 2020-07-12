@@ -27,10 +27,10 @@ To clone and run this repository you'll need Git and Node.js (which comes with n
 ```bash
 
 # Clone the project
-git clone https://github.com/wissal29/TimeTracking-Application.git 
+git clone https://github.com/wissal29/incloudTimeTracker.git 
 
 # Go into the repository
-cd TimeTracking-Application
+cd incloudTimeTracker
 
 # Install dependencies
 npm install
